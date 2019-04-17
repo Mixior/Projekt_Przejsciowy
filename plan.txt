@@ -1,0 +1,12 @@
+bvh-sterowanie panelu z diodami przy pomocy I
+	Przejrzec materialy oraz wybrac rozwiazanie. Zaprojektowac plytke. 
+Mikrokontroler stm z canem najlepiej najtanszy. 
+Funkcjonalnosc: Swiatla mijania/pozycyjne(z dopasowaniem natezenia), kierunkowskazy.(dwukolorowe) 
+Z przodu biale z molziwoscia przelaczania na kierunki, z tylu czerwone z mozliwoscia kierunku i biale cofania(najlepiej rgb).
+Po nakreslenia wizji, zrobic shcemat blokowy, a nastepnie projekt plytki.
+
+-warstwa programowa
+
+
+
+-komunikacja CAN
